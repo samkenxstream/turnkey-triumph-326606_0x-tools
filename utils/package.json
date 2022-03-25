@@ -1,6 +1,6 @@
 {
     "name": "@0x/utils",
-    "version": "6.5.0",
+    "version": "6.5.3",
     "engines": {
         "node": ">=6.12"
     },
@@ -43,15 +43,15 @@
         "shx": "^0.2.2",
         "tslint": "5.11.0",
         "typescript": "4.2.2",
-        "@0x/types": "^3.3.4",
-        "@0x/typescript-typings": "^5.2.1",
+        "@0x/types": "^3.3.6",
+        "@0x/typescript-typings": "^5.3.1",
         "@types/mocha": "^5.2.7",
         "@types/node": "12.12.54",
         "ethereum-types": "^3.6.0"
     },
     "dependencies": {
         "abortcontroller-polyfill": "^1.1.9",
-        "bignumber.js": "~9.0.0",
+        "bignumber.js": "~9.0.2",
         "chalk": "^2.3.0",
         "detect-node": "2.0.3",
         "ethereumjs-util": "^7.1.0",

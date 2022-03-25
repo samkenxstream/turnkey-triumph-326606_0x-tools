@@ -5,6 +5,18 @@ Edit the package's CHANGELOG.json file only.
 
 CHANGELOG
 
+## v5.8.0 - _March 16, 2022_
+
+    * Handle potentially missing linkReferences in 0.8 (#62)
+
+## v5.7.4 - _March 16, 2022_
+
+    * Dependencies updated
+
+## v5.7.3 - _February 26, 2022_
+
+    * Dependencies updated
+
 ## v5.7.2 - _January 20, 2022_
 
     * Inline selector lookup in abi-gen template (#58)

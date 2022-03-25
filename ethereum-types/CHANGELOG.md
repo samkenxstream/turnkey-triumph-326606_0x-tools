@@ -5,6 +5,14 @@ Edit the package's CHANGELOG.json file only.
 
 CHANGELOG
 
+## v3.7.0 - _March 16, 2022_
+
+    * Make compiler artifact `linkReferences` optional (#62)
+
+## v3.6.1 - _February 26, 2022_
+
+    * Dependencies updated
+
 ## v3.6.0 - _August 25, 2021_
 
     * Add 1559 fields to transaction and call object types (#45)

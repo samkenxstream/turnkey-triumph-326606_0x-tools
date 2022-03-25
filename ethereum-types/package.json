@@ -1,6 +1,6 @@
 {
     "name": "ethereum-types",
-    "version": "3.6.0",
+    "version": "3.7.0",
     "engines": {
         "node": ">=6.12"
     },
@@ -42,7 +42,7 @@
     },
     "dependencies": {
         "@types/node": "12.12.54",
-        "bignumber.js": "~9.0.0"
+        "bignumber.js": "~9.0.2"
     },
     "publishConfig": {
         "access": "public"

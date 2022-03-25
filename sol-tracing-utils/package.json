@@ -1,6 +1,6 @@
 {
     "name": "@0x/sol-tracing-utils",
-    "version": "7.2.8",
+    "version": "7.3.1",
     "engines": {
         "node": ">=6.12"
     },
@@ -38,17 +38,17 @@
     },
     "homepage": "https://github.com/0xProject/tools/tree/main/sol-tracing-utils",
     "dependencies": {
-        "@0x/dev-utils": "^4.2.11",
-        "@0x/sol-compiler": "^4.7.8",
-        "@0x/sol-resolver": "^3.1.9",
-        "@0x/subproviders": "^6.6.2",
-        "@0x/typescript-typings": "^5.2.1",
-        "@0x/utils": "^6.5.0",
-        "@0x/web3-wrapper": "^7.6.2",
+        "@0x/dev-utils": "^4.2.14",
+        "@0x/sol-compiler": "^4.8.1",
+        "@0x/sol-resolver": "^3.1.12",
+        "@0x/subproviders": "^6.6.5",
+        "@0x/typescript-typings": "^5.3.1",
+        "@0x/utils": "^6.5.3",
+        "@0x/web3-wrapper": "^7.6.5",
         "@types/node": "12.12.54",
         "@types/solidity-parser-antlr": "^0.2.3",
         "chalk": "^2.3.0",
-        "ethereum-types": "^3.6.0",
+        "ethereum-types": "^3.7.0",
         "ethereumjs-util": "^7.1.0",
         "ethers": "~4.0.4",
         "glob": "^7.1.2",
@@ -58,7 +58,7 @@
         "mkdirp": "^0.5.1",
         "rimraf": "^2.6.2",
         "semaphore-async-await": "^1.5.1",
-        "solc": "^0.5.5",
+        "solc": "^0.8",
         "solidity-parser-antlr": "^0.4.2"
     },
     "devDependencies": {
